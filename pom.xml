@@ -23,7 +23,7 @@
     <groupId>org.mybatis</groupId>
     <artifactId>mybatis-parent</artifactId>
     <version>44</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <groupId>org.mybatis</groupId>
@@ -334,7 +334,7 @@
     <dependency>
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-api</artifactId>
-      <version>2.0.13</version>
+      <version>2.0.14</version>
       <optional>true</optional>
     </dependency>
 
