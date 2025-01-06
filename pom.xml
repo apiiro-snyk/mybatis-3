@@ -23,7 +23,7 @@
     <groupId>org.mybatis</groupId>
     <artifactId>mybatis-parent</artifactId>
     <version>44</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <groupId>org.mybatis</groupId>
@@ -316,7 +316,7 @@
     <dependency>
       <groupId>ch.qos.reload4j</groupId>
       <artifactId>reload4j</artifactId>
-      <version>1.2.25</version>
+      <version>1.2.26</version>
       <optional>true</optional>
     </dependency>
     <dependency>
